@@ -1,2 +1,2 @@
-# Event-Booking-Portal-
-java
+# Event-booking-portal
+event-booking-portal
